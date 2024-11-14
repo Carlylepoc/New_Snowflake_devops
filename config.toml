@@ -1,0 +1,8 @@
+[connections.default]
+warehouse = "COMPUTE_WH"
+role = "ACCOUNTADMIN"
+database = "ENT_DIS_DEV"
+schema = "public"
+account = "xwb55045"
+user = "Sandhya"
+password = "Sandhya7@"
